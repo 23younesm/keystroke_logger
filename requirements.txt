@@ -1,0 +1,11 @@
+# Navigate to your project folder
+cd keystroke_logger
+
+# Create a virtual environment (optional but recommended)
+python3 -m venv venv
+
+# Activate the virtual environment (on Windows use `venv\Scripts\activate`)
+source venv/bin/activate
+
+# Install the dependencies
+pip install -r requirements.txt
